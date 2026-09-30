@@ -3,7 +3,7 @@ function validateLogin() {
   const password = document.getElementById("password").value;
 
   if (username === "" || password === "") {
-    alert("goblok masukin pw dan username dolo tolol!");
+    alert("goblok masukin pw dan username dolo eeeeeeewww!");
     return false;
   }
 
@@ -11,6 +11,6 @@ function validateLogin() {
     return true;
   }
 
-  alert("goblok salaha woy!");
+  alert("woy woy woy salah salah salah woy!");
   return false;
 }
